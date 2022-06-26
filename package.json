@@ -1,5 +1,8 @@
 {
+  "name": "9min26sec",
+  "license": "MIT",
   "private": true,
+  "version": "2.0.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
